@@ -74,7 +74,7 @@
     "baseUrl": ".",
     "paths": {
       "@controllers/*" : ["./src/controllers/*"],
-      "@models/*" : ["./src/modesl/*"]
+      "@models/*" : ["./src/models/*"]
     }
   }
 }
